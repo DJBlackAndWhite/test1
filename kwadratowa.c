@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-
+// Obliczenie funkcji kwadratowej //
 int main()
 	{
 	float a,b,c,d,x1,x2;
